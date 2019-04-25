@@ -1,4 +1,4 @@
 {
   "private": true,
-  "main": "./Dashboard.js"
+  "main": "./Dashboard.container.js"
 }
