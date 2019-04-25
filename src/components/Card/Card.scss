@@ -1,0 +1,25 @@
+@import '../../styles/main.scss';
+
+.card {
+  border: .1rem solid $grey;
+  border-radius: .2rem;
+}
+
+.card__title {
+  border-bottom: .1rem solid $grey;
+  padding: 2rem;
+  color: $darkBlue;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.card__title__text {
+  font-size: 2.4rem;
+  margin: 0;
+}
+
+.card__title__image {
+  width: 3.5rem;
+  cursor: pointer;
+}
