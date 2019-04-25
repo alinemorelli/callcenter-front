@@ -1,0 +1,22 @@
+@import '../../styles/main.scss';
+
+.header {
+  display: flex;
+  width: 100%;
+  background: $lightBlue;
+  height: 10rem;
+  justify-content: center;
+  color: $white;
+  box-shadow: 0 .1rem .2rem $grey;
+  align-items: center;
+  margin-bottom: 4rem;
+}
+
+.header__image {
+  object-fit: contain;
+}
+
+.header__title {
+  margin: 0 1rem;
+  font-size: 3.5rem;
+}
