@@ -48,7 +48,7 @@
     "fetch-mock": "^7.3.3",
     "jest": "^24.7.1",
     "jest-cli": "^24.7.1",
-    "node-fetch": "^2.3.0",
+    "node-fetch": "^2.6.7",
     "react-test-renderer": "^16.8.6",
     "redux-mock-store": "^1.5.3"
   }
